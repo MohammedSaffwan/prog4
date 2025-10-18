@@ -1,2 +1,2 @@
 # prog4
-demo of cloning
+demo of cloning . This is my first prog
